@@ -4,7 +4,7 @@
 
 - NOM DE LA TÈCNICA DE VISUALITZACIÓ: Stacked bar graph o gràfic de barres apilades
 - ORIGEN: Playfair va ser l'inventor del gràfic de barres. Va elaborar un diagrama de barres horitzontal per a consignar el comerç exterior (importacions i exportacions) d'Escòcia amb diversos països en 1781. https://www.ine.es/expo_graficos2010/expogra_autor2.htm#:~:text=London%2C%201801%20(3rd%20ed.),-Gr%C3%A1fico%20de%20exportaciones&text=Playfair%20fue%20el%20inventor%20del,obra%20Commercial%20and%20Political%20Atlas.
-- DESCRIPCIÓ FUNCIONAMENT: És una manera de representar gràficament un conjunt de dades o valors mitjançant barres rectangulars de longitud proporcional als valors representats. Els grafics de barres apilats segmenten les seves barres. Els grafs de barres apilats s'utilitzen per mostrar com una categoria més gran es divideix en categories més petites i quina relació té cada part sobre la quantitat total. 
+- DESCRIPCIÓ FUNCIONAMENT: És una manera de representar gràficament un conjunt de dades o valors mitjançant barres rectangulars de longitud proporcional als valors representats. Els grafics de barres apilats segmenten les seves barres. Els grafs de barres apilats s'utilitzen per mostrar com una categoria es divideix en subcategories i quina relació té cada part sobre la quantitat total. 
 - EXEMPLES D'APLICACIÓ: https://www.anychart.com/products/anychart/gallery/Bar_Charts/Stacked_Bar_Chart.php
 
 **2.	Descripció del tipus de dades**
