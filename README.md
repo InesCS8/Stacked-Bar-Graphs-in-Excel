@@ -25,7 +25,7 @@ Eina emprada -> https://www.microsoft.com/en-us/microsoft-365/excel
 
 ![Titulats cicles formatius](https://user-images.githubusercontent.com/104026026/164204914-48c69761-4ac6-44c8-8ab8-eff63ca778a4.png)
 
-**4.	Comentar breument les tres representacions**
+**4.	Comentar breument la representació**
 
 En el gràfic es pot observar que hi ha activitats econòmiques que ocupen major nombre de persones amb títol de cicle superior com la indústria, la reparació de vehicles i les activitats sanitàries.
 
