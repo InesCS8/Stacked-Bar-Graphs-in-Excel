@@ -23,7 +23,8 @@ Dataset-> https://datos.gob.es/es/catalogo/ea0010587-titulados-en-ciclos-formati
 
 Eina emprada -> https://www.microsoft.com/en-us/microsoft-365/excel
 
-![Titulats cicles formatius](https://user-images.githubusercontent.com/104026026/164204914-48c69761-4ac6-44c8-8ab8-eff63ca778a4.png)
+![image](https://user-images.githubusercontent.com/104026026/164290472-b8ed65b5-e2a1-4668-b290-5f4be4b32e20.png)
+
 
 **4.	Comentar breument la representació**
 
